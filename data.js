@@ -9,15 +9,15 @@ var data = [
 
     ['sleep', 8],
    
-   
     ['eat', 3],
-   
    
     ['code', 7],
    
-   
     ['relax', 2],
+
+    ['music', 5],
    
+    ['shoes', 9],
    
     ['other', 4]
    
